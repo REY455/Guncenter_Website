@@ -1,24 +1,3 @@
 	
     
-    
-    can be used to create new product with under mark
-    <div class="col-lg-4 col-md-6">
-							<div class="single-product">
-								<img class="img-fluid" src="/static/img/air_pistols/SP60 Aries.jpg" alt="">
-								<div class="product-details">
-									<h6>SP60 Aries</h6></a>
-									<div class="price">
-										<h6>₹5,499</h6>
-										<h6 class="l-through">10000.Rs</h6>           	                      
-									</div>
-									<div class="prd-bottom">
-										<a href="/templates/air_pistols/SP60 Aries.html"><button class="button-cart" role="button">View</button>
-										</a>
-
-										<!-- <a href="/templates/shop.html"><button class="button-buy" role="button">Buy Now</button>
-										</a> -->
-
-									</div>
-								</div>
-							</div>
-						</div>
+   
